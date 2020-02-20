@@ -1,5 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Package used:
+cors, mongoose, dotenv, express.
 
+## Environment for node;
+Create a `.env` file in `backend` directory, create a variable of name `ATLAS_URI`. This can contain URI from local mongoDB database, however I'll recommend MongoDB Atlas. It's Free. Create an account and paste Connection string here. 
 ## Available Scripts
 
 In the project directory, you can run:
